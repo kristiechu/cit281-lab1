@@ -11,6 +11,3 @@
 
 <!-- Insert Photo -->
 
-
-
-### Repo Link: https://github.com/kristiechu/cit281-lab1
