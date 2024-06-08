@@ -1,6 +1,6 @@
 # CIT 281 Lab 01
 
-## This lab is about downloading software and pratice with using Node.js
+### This lab is about downloading software and pratice with using Node.js
 
 ## Goals & Outcome:
   - Part 1: Install and setup your personal computer with the software tools required for this course
