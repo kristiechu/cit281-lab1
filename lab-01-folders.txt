@@ -1,0 +1,10 @@
+total 8
+-rw-r--r--@ 1 kristiechu  staff    0 Apr  5 12:31 lab-01-folders.txt
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p1
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p2
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p3
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p4
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p5
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p6
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p7
+drwxr-xr-x@ 2 kristiechu  staff   64 Apr  5 12:22 p8
