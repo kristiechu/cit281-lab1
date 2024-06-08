@@ -9,5 +9,7 @@
   - Part 4: Practice keyboard shortcuts
   - Part 5: Create your first Node.js server-side JavaScript file
 
+## Lab-01-node.js Example
+![lab-node pic](cit281-lab1/lab-01-node.png)
 <!-- Insert Photo -->
 
